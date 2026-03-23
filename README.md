@@ -13,7 +13,7 @@ Extensive experiments demonstrate that SpaBCA consistently outperforms state-of-
 ## Overview
 
 <p align="center">
-  <img src="figures/overview.png" width="900">
+  <img src="overview.png" width="900">
 </p>
 
 ---
